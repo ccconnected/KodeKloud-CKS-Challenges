@@ -10,7 +10,7 @@ CKS challenges on KodeKloud: https://kodekloud.com/courses/cks-challenges/
 
 The series consists of 4 individual challenges, each with a set of several tasks, that assist in mastering Kubernetes security concepts and prepare the learner for the [Certified Kubernetes Security Specialist](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/) (CKS) certification.
 
-These challenges test the learner on Kubernetes security concepts such as network policies, RBAC, security scanning, CIS benchmarks, auditing, etc. To solve some of the tasks, the learner will also need to make use of third party security tools such as [AppArmor](https://www.apparmor.net/), Aquasec [Trivy](https://github.com/aquasecurity/trivy) and [Kube-bench](https://github.com/aquasecurity/kube-bench), Controlplane [Kubesec](https://kubesec.io/), and [Falco](https://falco.org/) from Sysdig open source.
+These challenges test the learner on Kubernetes security concepts such as network policies, RBAC, security scanning, CIS benchmarks, auditing, etc. To solve some of the tasks, the learner will also need to make use of third-party security tools such as [AppArmor](https://www.apparmor.net/), Aquasec [Trivy](https://github.com/aquasecurity/trivy) and [Kube-bench](https://github.com/aquasecurity/kube-bench), Controlplane [Kubesec](https://kubesec.io/), and [Falco](https://falco.org/) from Sysdig open source.
 
 $~$
 
